@@ -1,4 +1,4 @@
 # Prakhar-Repo
 This is my first git repository
 <br>
-Author-Prakhar Bhardwaj
+Author-Prakhar(GCC)
